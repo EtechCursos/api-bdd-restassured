@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 29 21:29:08 GMT 2024","Mon Apr 29 21:29:08 GMT 2024","183","","","","","","Verificar mensagem de erro ao utilizar e-mail existente",""
+"passed","Mon Apr 29 21:29:07 GMT 2024","Mon Apr 29 21:29:07 GMT 2024","283","","","","","","Verificar login com sucesso(Validar endpoint de Auth",""
+"passed","Mon Apr 29 21:29:04 GMT 2024","Mon Apr 29 21:29:07 GMT 2024","2322","","","","","","Validar a inclusão de um filme com sucesso",""
+"passed","Mon Apr 29 21:29:07 GMT 2024","Mon Apr 29 21:29:08 GMT 2024","419","","","","","","Verificar cadastro de novo usuário com sucesso",""
